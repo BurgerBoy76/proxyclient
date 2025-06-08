@@ -1,0 +1,4 @@
+__pycache__/
+nextapp/.next/
+nextapp/node_modules/
+server
